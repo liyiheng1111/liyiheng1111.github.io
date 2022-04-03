@@ -1,4 +1,6 @@
+echo pwd
 cd ..
+pwd
 ../hugo.exe
 cd public
 git add .
