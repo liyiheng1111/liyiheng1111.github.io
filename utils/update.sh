@@ -1,5 +1,5 @@
 cd ..
-../hugo.exep
+../hugo.exe
 cd public
 git add .
 git commit -m "update"
